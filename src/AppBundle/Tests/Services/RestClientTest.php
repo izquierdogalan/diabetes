@@ -2,7 +2,6 @@
 namespace AppBundle\Tests\Services;
 
 
-use AppBundle\Services\RestClient;
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
 class RestClientTest extends WebTestCase
